@@ -259,3 +259,13 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/MVCForum.Website/Scripts/cache/*
+/MVCForum.Website/App_Data/LogFile*
+/MVCForum.Services/MVCForum.Services.csproj.DotSettings
+/MVCForum.Website/Content/uploads/*
+/MVCForum.Website/App_Data/cache/*
+/MVCForum.Website/Notes.txt
+/MVCForum.Website/Properties/PublishProfiles/*
+/MVCForum.Website/App_Data/Plugins/MvcForum.Plugins.dll
+/.vs/config/applicationhost.config
+/.vs/config/applicationhost.config
